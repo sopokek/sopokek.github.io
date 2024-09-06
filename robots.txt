@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://sopokek.github.io/sitemap/sitemap.txt
